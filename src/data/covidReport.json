@@ -1,0 +1,801 @@
+{
+  "Tamil Nadu": {
+    "Ariyalur": {
+      "notes": "",
+      "active": 237,
+      "confirmed": 16037,
+      "migratedother": 0,
+      "deceased": 240,
+      "recovered": 15560,
+      "delta": {
+        "confirmed": 21,
+        "deceased": 1,
+        "recovered": 26
+      }
+    },
+    "Chengalpattu": {
+      "notes": "",
+      "active": 1152,
+      "confirmed": 163274,
+      "migratedother": 0,
+      "deceased": 2413,
+      "recovered": 159709,
+      "delta": {
+        "confirmed": 139,
+        "deceased": 0,
+        "recovered": 117
+      }
+    },
+    "Chennai": {
+      "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.",
+      "active": 2048,
+      "confirmed": 540300,
+      "migratedother": 0,
+      "deceased": 8345,
+      "recovered": 529907,
+      "delta": {
+        "confirmed": 237,
+        "deceased": 3,
+        "recovered": 191
+      }
+    },
+    "Coimbatore": {
+      "notes": "",
+      "active": 2259,
+      "confirmed": 231863,
+      "migratedother": 0,
+      "deceased": 2201,
+      "recovered": 227403,
+      "delta": {
+        "confirmed": 230,
+        "deceased": 2,
+        "recovered": 203
+      }
+    },
+    "Cuddalore": {
+      "notes": "",
+      "active": 777,
+      "confirmed": 61220,
+      "migratedother": 0,
+      "deceased": 821,
+      "recovered": 59622,
+      "delta": {
+        "confirmed": 76,
+        "deceased": 0,
+        "recovered": 47
+      }
+    },
+    "Dharmapuri": {
+      "notes": "",
+      "active": 316,
+      "confirmed": 26415,
+      "migratedother": 0,
+      "deceased": 237,
+      "recovered": 25862,
+      "delta": {
+        "confirmed": 25,
+        "deceased": 0,
+        "recovered": 34
+      }
+    },
+    "Dindigul": {
+      "notes": "",
+      "active": 157,
+      "confirmed": 32322,
+      "migratedother": 0,
+      "deceased": 627,
+      "recovered": 31538,
+      "delta": {
+        "confirmed": 13,
+        "deceased": 1,
+        "recovered": 15
+      }
+    },
+    "Erode": {
+      "notes": "",
+      "active": 1710,
+      "confirmed": 95559,
+      "migratedother": 0,
+      "deceased": 641,
+      "recovered": 93208,
+      "delta": {
+        "confirmed": 160,
+        "deceased": 1,
+        "recovered": 174
+      }
+    },
+    "Kallakurichi": {
+      "notes": "",
+      "active": 468,
+      "confirmed": 29521,
+      "migratedother": 0,
+      "deceased": 199,
+      "recovered": 28854,
+      "delta": {
+        "confirmed": 31,
+        "deceased": 0,
+        "recovered": 42
+      }
+    },
+    "Kancheepuram": {
+      "notes": "",
+      "active": 448,
+      "confirmed": 72144,
+      "migratedother": 0,
+      "deceased": 1213,
+      "recovered": 70483,
+      "delta": {
+        "confirmed": 42,
+        "deceased": 1,
+        "recovered": 36
+      }
+    },
+    "Kanyakumari": {
+      "notes": "",
+      "active": 339,
+      "confirmed": 60451,
+      "migratedother": 0,
+      "deceased": 1022,
+      "recovered": 59090,
+      "delta": {
+        "confirmed": 30,
+        "deceased": 0,
+        "recovered": 28
+      }
+    },
+    "Karur": {
+      "notes": "",
+      "active": 188,
+      "confirmed": 22836,
+      "migratedother": 0,
+      "deceased": 351,
+      "recovered": 22297,
+      "delta": {
+        "confirmed": 23,
+        "deceased": 0,
+        "recovered": 12
+      }
+    },
+    "Krishnagiri": {
+      "notes": "",
+      "active": 309,
+      "confirmed": 41638,
+      "migratedother": 0,
+      "deceased": 325,
+      "recovered": 41004,
+      "delta": {
+        "confirmed": 26,
+        "deceased": 1,
+        "recovered": 37
+      }
+    },
+    "Madurai": {
+      "notes": "",
+      "active": 228,
+      "confirmed": 73729,
+      "migratedother": 0,
+      "deceased": 1147,
+      "recovered": 72354,
+      "delta": {
+        "confirmed": 15,
+        "deceased": 0,
+        "recovered": 18
+      }
+    },
+    "Nagapattinam": {
+      "notes": "",
+      "active": 427,
+      "confirmed": 19075,
+      "migratedother": 0,
+      "deceased": 295,
+      "recovered": 18353,
+      "delta": {
+        "confirmed": 36,
+        "deceased": 3,
+        "recovered": 43
+      }
+    },
+    "Namakkal": {
+      "notes": "",
+      "active": 574,
+      "confirmed": 47771,
+      "migratedother": 0,
+      "deceased": 458,
+      "recovered": 46739,
+      "delta": {
+        "confirmed": 37,
+        "deceased": 0,
+        "recovered": 57
+      }
+    },
+    "Nilgiris": {
+      "notes": "",
+      "active": 493,
+      "confirmed": 31048,
+      "migratedother": 0,
+      "deceased": 186,
+      "recovered": 30369,
+      "delta": {
+        "confirmed": 43,
+        "deceased": 0,
+        "recovered": 51
+      }
+    },
+    "Perambalur": {
+      "notes": "",
+      "active": 109,
+      "confirmed": 11579,
+      "migratedother": 0,
+      "deceased": 225,
+      "recovered": 11245,
+      "delta": {
+        "confirmed": 10,
+        "deceased": 0,
+        "recovered": 10
+      }
+    },
+    "Pudukkottai": {
+      "notes": "",
+      "active": 356,
+      "confirmed": 28533,
+      "migratedother": 0,
+      "deceased": 372,
+      "recovered": 27805,
+      "delta": {
+        "confirmed": 39,
+        "deceased": 0,
+        "recovered": 23
+      }
+    },
+    "Ramanathapuram": {
+      "notes": "",
+      "active": 94,
+      "confirmed": 20110,
+      "migratedother": 0,
+      "deceased": 351,
+      "recovered": 19665,
+      "delta": {
+        "confirmed": 6,
+        "deceased": 0,
+        "recovered": 13
+      }
+    },
+    "Ranipet": {
+      "notes": "",
+      "active": 216,
+      "confirmed": 42169,
+      "migratedother": 0,
+      "deceased": 745,
+      "recovered": 41208,
+      "delta": {
+        "confirmed": 22,
+        "deceased": 0,
+        "recovered": 22
+      }
+    },
+    "Salem": {
+      "notes": "",
+      "active": 843,
+      "confirmed": 94328,
+      "migratedother": 0,
+      "deceased": 1597,
+      "recovered": 91888,
+      "delta": {
+        "confirmed": 86,
+        "deceased": 3,
+        "recovered": 87
+      }
+    },
+    "Sivaganga": {
+      "notes": "",
+      "active": 229,
+      "confirmed": 19022,
+      "migratedother": 0,
+      "deceased": 199,
+      "recovered": 18594,
+      "delta": {
+        "confirmed": 21,
+        "deceased": 0,
+        "recovered": 24
+      }
+    },
+    "Tenkasi": {
+      "notes": "",
+      "active": 112,
+      "confirmed": 26928,
+      "migratedother": 0,
+      "deceased": 484,
+      "recovered": 26332,
+      "delta": {
+        "confirmed": 9,
+        "deceased": 0,
+        "recovered": 11
+      }
+    },
+    "Thanjavur": {
+      "notes": "",
+      "active": 995,
+      "confirmed": 68972,
+      "migratedother": 0,
+      "deceased": 864,
+      "recovered": 67113,
+      "delta": {
+        "confirmed": 77,
+        "deceased": 2,
+        "recovered": 82
+      }
+    },
+    "Theni": {
+      "notes": "",
+      "active": 120,
+      "confirmed": 43038,
+      "migratedother": 0,
+      "deceased": 514,
+      "recovered": 42404,
+      "delta": {
+        "confirmed": 13,
+        "deceased": 0,
+        "recovered": 14
+      }
+    },
+    "Thiruvallur": {
+      "notes": "",
+      "active": 941,
+      "confirmed": 114461,
+      "migratedother": 0,
+      "deceased": 1766,
+      "recovered": 111754,
+      "delta": {
+        "confirmed": 100,
+        "deceased": 1,
+        "recovered": 83
+      }
+    },
+    "Thiruvarur": {
+      "notes": "",
+      "active": 432,
+      "confirmed": 38327,
+      "migratedother": 0,
+      "deceased": 376,
+      "recovered": 37519,
+      "delta": {
+        "confirmed": 40,
+        "deceased": 1,
+        "recovered": 38
+      }
+    },
+    "Thoothukkudi": {
+      "notes": "",
+      "active": 196,
+      "confirmed": 55274,
+      "migratedother": 0,
+      "deceased": 398,
+      "recovered": 54680,
+      "delta": {
+        "confirmed": 18,
+        "deceased": 0,
+        "recovered": 21
+      }
+    },
+    "Tiruchirappalli": {
+      "notes": "",
+      "active": 749,
+      "confirmed": 73209,
+      "migratedother": 0,
+      "deceased": 979,
+      "recovered": 71481,
+      "delta": {
+        "confirmed": 74,
+        "deceased": 3,
+        "recovered": 74
+      }
+    },
+    "Tirunelveli": {
+      "notes": "",
+      "active": 252,
+      "confirmed": 48151,
+      "migratedother": 0,
+      "deceased": 430,
+      "recovered": 47469,
+      "delta": {
+        "confirmed": 14,
+        "deceased": 0,
+        "recovered": 26
+      }
+    },
+    "Tirupathur": {
+      "notes": "",
+      "active": 178,
+      "confirmed": 28410,
+      "migratedother": 0,
+      "deceased": 604,
+      "recovered": 27628,
+      "delta": {
+        "confirmed": 10,
+        "deceased": 0,
+        "recovered": 19
+      }
+    },
+    "Tiruppur": {
+      "notes": "",
+      "active": 857,
+      "confirmed": 88754,
+      "migratedother": 0,
+      "deceased": 876,
+      "recovered": 87021,
+      "delta": {
+        "confirmed": 78,
+        "deceased": 2,
+        "recovered": 67
+      }
+    },
+    "Tiruvannamalai": {
+      "notes": "",
+      "active": 503,
+      "confirmed": 52586,
+      "migratedother": 0,
+      "deceased": 641,
+      "recovered": 51442,
+      "delta": {
+        "confirmed": 52,
+        "deceased": 1,
+        "recovered": 66
+      }
+    },
+    "Vellore": {
+      "notes": "",
+      "active": 308,
+      "confirmed": 48356,
+      "migratedother": 0,
+      "deceased": 1097,
+      "recovered": 46951,
+      "delta": {
+        "confirmed": 39,
+        "deceased": 1,
+        "recovered": 27
+      }
+    },
+    "Viluppuram": {
+      "notes": "",
+      "active": 358,
+      "confirmed": 44205,
+      "migratedother": 0,
+      "deceased": 341,
+      "recovered": 43506,
+      "delta": {
+        "confirmed": 37,
+        "deceased": 0,
+        "recovered": 33
+      }
+    },
+    "Virudhunagar": {
+      "notes": "",
+      "active": 137,
+      "confirmed": 45628,
+      "migratedother": 0,
+      "deceased": 542,
+      "recovered": 44949,
+      "delta": {
+        "confirmed": 10,
+        "deceased": 1,
+        "recovered": 20
+      }
+    }
+  },
+  "Delhi": {
+    "East Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 38,
+      "confirmed": 38,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "New Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 37,
+      "confirmed": 37,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "North Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 60,
+      "confirmed": 60,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "North East Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 25,
+      "confirmed": 25,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "North West Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 31,
+      "confirmed": 32,
+      "migratedother": 0,
+      "deceased": 1,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "Shahdara": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 48,
+      "confirmed": 48,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "South Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 70,
+      "confirmed": 70,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "South East Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 130,
+      "confirmed": 130,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "South West Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 42,
+      "confirmed": 42,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    },
+    "West Delhi": {
+      "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in bulletin",
+      "active": 122,
+      "confirmed": 122,
+      "migratedother": 0,
+      "deceased": 0,
+      "recovered": 0,
+      "delta": {
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 0
+      }
+    }
+  },
+  "kerala": {
+    "Alappuzha": {
+      "notes": "",
+      "active": 8265,
+      "confirmed": 237133,
+      "migratedother": 40,
+      "deceased": 1150,
+      "recovered": 227678,
+      "delta": {
+        "confirmed": 1440,
+        "deceased": 5,
+        "recovered": 1073
+      }
+    },
+    "Ernakulam": {
+      "notes": "",
+      "active": 26921,
+      "confirmed": 430396,
+      "migratedother": 69,
+      "deceased": 1830,
+      "recovered": 401576,
+      "delta": {
+        "confirmed": 2856,
+        "deceased": 12,
+        "recovered": 2024
+      }
+    },
+    "Idukki": {
+      "notes": "",
+      "active": 6218,
+      "confirmed": 96572,
+      "migratedother": 8,
+      "deceased": 238,
+      "recovered": 90108,
+      "delta": {
+        "confirmed": 637,
+        "deceased": 2,
+        "recovered": 353
+      }
+    },
+    "Kannur": {
+      "notes": "",
+      "active": 8847,
+      "confirmed": 199236,
+      "migratedother": 51,
+      "deceased": 1147,
+      "recovered": 189191,
+      "delta": {
+        "confirmed": 1194,
+        "deceased": 1,
+        "recovered": 1323
+      }
+    },
+    "Kasaragod": {
+      "notes": "",
+      "active": 8732,
+      "confirmed": 114698,
+      "migratedother": 18,
+      "deceased": 382,
+      "recovered": 105566,
+      "delta": {
+        "confirmed": 562,
+        "deceased": 1,
+        "recovered": 132
+      }
+    },
+    "Kollam": {
+      "notes": "",
+      "active": 2412,
+      "confirmed": 284264,
+      "migratedother": 59,
+      "deceased": 1389,
+      "recovered": 280404,
+      "delta": {
+        "confirmed": 1633,
+        "deceased": 14,
+        "recovered": 1165
+      }
+    },
+    "Kottayam": {
+      "notes": "",
+      "active": 7989,
+      "confirmed": 231995,
+      "migratedother": 14,
+      "deceased": 762,
+      "recovered": 223230,
+      "delta": {
+        "confirmed": 1227,
+        "deceased": 3,
+        "recovered": 1301
+      }
+    },
+    "Kozhikode": {
+      "notes": "",
+      "active": 23271,
+      "confirmed": 387573,
+      "migratedother": 43,
+      "deceased": 1869,
+      "recovered": 362390,
+      "delta": {
+        "confirmed": 2789,
+        "deceased": 10,
+        "recovered": 2098
+      }
+    },
+    "Malappuram": {
+      "notes": "",
+      "active": 28759,
+      "confirmed": 440734,
+      "migratedother": 30,
+      "deceased": 1508,
+      "recovered": 410437,
+      "delta": {
+        "confirmed": 3109,
+        "deceased": 13,
+        "recovered": 2940
+      }
+    },
+    "Palakkad": {
+      "notes": "",
+      "active": 17683,
+      "confirmed": 269048,
+      "migratedother": 22,
+      "deceased": 1652,
+      "recovered": 249691,
+      "delta": {
+        "confirmed": 2414,
+        "deceased": 19,
+        "recovered": 2177
+      }
+    },
+    "Pathanamthitta": {
+      "notes": "",
+      "active": 8298,
+      "confirmed": 136773,
+      "migratedother": 11,
+      "deceased": 554,
+      "recovered": 127910,
+      "delta": {
+        "confirmed": 696,
+        "deceased": 5,
+        "recovered": 532
+      }
+    },
+    "Thiruvananthapuram": {
+      "notes": "",
+      "active": 9386,
+      "confirmed": 343093,
+      "migratedother": 115,
+      "deceased": 3376,
+      "recovered": 330216,
+      "delta": {
+        "confirmed": 1255,
+        "deceased": 11,
+        "recovered": 1169
+      }
+    },
+    "Thrissur": {
+      "notes": "",
+      "active": 11239,
+      "confirmed": 355009,
+      "migratedother": 26,
+      "deceased": 1965,
+      "recovered": 341779,
+      "delta": {
+        "confirmed": 3124,
+        "deceased": 19,
+        "recovered": 2602
+      }
+    },
+    "Wayanad": {
+      "notes": "",
+      "active": 7938,
+      "confirmed": 83669,
+      "migratedother": 14,
+      "deceased": 298,
+      "recovered": 75419,
+      "delta": {
+        "confirmed": 564,
+        "deceased": 1,
+        "recovered": 522
+      }
+    }
+  }
+}
